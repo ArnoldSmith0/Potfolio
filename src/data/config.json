@@ -1,0 +1,176 @@
+{
+  "basic": {
+    "title": "Whitney Clarke | Portfolio",
+    "description": "Porfolio"
+  },
+  "hero": {
+    "fullName": "Whitney Clarke",
+    "iam": [
+      "Senior Full Stack Engineer",
+      "Problem-solving",
+      "Leadership",
+      "Team player"
+    ],
+    "shortDescription": "Dynamic Full Stack Developer with 20 years of experience delivering scalable, high-impact web applications across e-commerce, internal tools, and customer-facing platforms. Known for driving a 30% increase in sales through a high-performing e-commerce platform and launching a project management tool that improved team efficiency by 25%. Proficient in JavaScript, React, Node.js, Python, and SQL, with a strong focus on performance optimization, user experience, and cross-functional collaboration.",
+    "cvUrl": "/files/cv-template.pdf"
+  },
+  "workExperience": [
+    {
+      "dateRange": "Oct 2019 - Present",
+      "title": "Senior Full Stack Developer",
+      "subtitle": "MintCo, Raleigh, North Carolina, United States",
+      "keyAccomplishment": [
+        "Developed a scalable e-commerce platform using JavaScript and Node.js, resulting in a <b>30% increase in sales</b> within the first year through enhanced user experience and targeted marketing strategies.",
+        "Engineered a project management tool with React and Express, which reduced project delivery time by <b>25% and improved team collaboration across departments</b>.",
+        "Optimized website performance by implementing caching strategies and asynchronous loading, achieving a <b>40% decrease in page load times </b> and boosting user engagement metrics.",
+        "Led a team of 5 developers using Agile methodologies, streamlining the development process and achieving a <b>20% increase in project throughput</b>, ensuring timely delivery of features."
+      ]
+    },
+    {
+      "dateRange": "January 2018 – May 2020",
+      "title": "Software Engineer",
+      "subtitle": "PetalMD, Canada, Québec",
+      "keyAccomplishment": [
+        "Designed and launched a customer feedback system utilizing Python and Django, which boosted <b>user satisfaction ratings by 15%</b> within six months by enabling real-time feedback collection and analysis",
+        "Collaborated with cross-functional teams to create RESTful APIs in Ruby on Rails, achieving a <b>98% bug-free release rate</b> through rigorous testing and adherence to best practices.",
+        "Implemented data analytics features using SQL to track user behavior, resulting in a <b>30% reduction in code-related issues</b> by identifying and addressing key pain points."
+      ]
+    },
+    {
+      "dateRange": "June 2015 – December 2017",
+      "title": "Junior Web Developer",
+      "subtitle": "MicotTel, Canada, Québec",
+      "keyAccomplishment": [
+        "Assisted in building and maintaining web applications using HTML, CSS, JavaScript, and PHP, contributing to a <b>20% faster development cycle</b> by creating reusable components.",
+        "Participated in migrating legacy systems to modern web frameworks, improving system reliability and maintainability.",
+        "Supported senior developers in debugging and optimizing backend processes, which led to a <b>15% improvement</b> in server response times.",
+        "Contributed to weekly code reviews and team stand-ups, building a strong foundation in Agile workflows and version control using Git."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Wayfair",
+      "url": "",
+      "description": "Wayfair is one of the world's largest online destinations for home furnishings and decor. I mainly participated to build new features for the customer-facing websites as well as back-end to make it easier for our marketing team to make data changes. Also I translated features and architecture built in monolithic environments into sustainable solutions in a decoupled services state.",
+      "technologiesUsed": [
+        "TypeScript",
+        "React",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "Enzyme"
+      ],
+      "image": "/images/dekang (1).jpg"
+    },
+    {
+      "title": "SoldNest",
+      "url": "",
+      "description": "SoldNest is a marketplace that provides the best tools to home sellers and matches them with top agents in their area. I participated to build the front-facing marketing site and the nestimator dashboard. Also I finalized the responsive designs while solving specific customer needs regarding display elements.",
+      "technologiesUsed": ["Vue", "Nuxt", "Node", "MongoDB", "AWS"],
+      "image": "/images/dekang (2).jpg"
+    },
+    {
+      "title": "MailerLite ",
+      "url": "",
+      "description": "MailerLite is an email marketing platform designed to deliver a simplified experience for advanced email marketing. I improved a real-time campaign dashboard dynamically updating its display every 5-10 seconds to show users up to date statistics. And I built a dynamic form builder allowing users to create forms with any number of fields, capture data, filter entries, and even target those entries for campaigns.",
+      "technologiesUsed": ["PHP", "Laravel", "Javascript", "Vue", "RabbitMQ"],
+      "image": "/images/dekang (6).jpg"
+    },
+    {
+      "title": "PetalMD ",
+      "url": "",
+      "description": "PetalMD is a SaaS provider of healthcare technology solutions which offers cloud-based productivity tools and mobile applications for physician scheduling, patient booking, medical billing, and other applications. I modernized the front-end on a legacy system to enable responsive layouts and mobile views. And I improved local development environments and pipelines using Docker that mirrored production for rapid developer onboarding.",
+      "technologiesUsed": ["Ruby", "TypeScript", "Angular", "Docker", "AWS"],
+      "image": "/images/dekang (3).jpg"
+    },
+    {
+      "title": "Foody ",
+      "url": "",
+      "description": "Foody is an online and mobile prepared food ordering and delivery marketplace that connects diners with local takeout restaurants. I prototyped, architected, and developed the cross-platform mobile app as a solo developer that connected to custom made APIs.",
+      "technologiesUsed": [
+        "Javascript",
+        "React Native",
+        "GraphQL",
+        "Jest",
+        "Apollo"
+      ],
+      "image": "/images/dekang (4).jpg"
+    },
+    {
+      "title": "SelectTV ",
+      "url": "",
+      "description": " SelectTV is a Streaming TV Platform which makes it easier than ever to watch TV Shows, Movies, Events, and more online by organizing all of the web's entertainment into the world's most comprehensive SmartGuide. I discovered and corrected architectural design flaws to improve program efficiency, performance, user interface, and Restful API using React and Django.",
+      "technologiesUsed": ["React", "Python", "Django", "AWS", "Docker"],
+      "image": "/images/dekang (5).jpg"
+    }
+  ],
+  "aboutMe": {
+    "description": [
+      "I'm a dynamic Full Stack Developer with 20 years of experience building scalable web applications that drive business growth and enhance user experience.",
+      "Over the years, I’ve led the development of impactful projects—including a high-performing e-commerce platform that increased sales by 30%, and a project management tool that improved team collaboration and efficiency.",
+      "My core strengths lie in JavaScript, React, and Node.js, with additional expertise in Python, SQL, and building RESTful APIs.",
+      "I take pride in writing clean, maintainable code and delivering solutions that balance technical excellence with real-world usability.",
+      "Whether I’m optimizing performance, leading a dev team, or collaborating across departments, I bring a results-driven mindset and a passion for creating meaningful software."
+    ],
+    "education": [
+      {
+        "dateRange": "2007 – 2010",
+        "degree": "",
+        "school": "Campbell University"
+      },
+      {
+        "dateRange": "2003 – 2005",
+        "degree": "",
+        "school": "Meredith College"
+      },
+      {
+        "dateRange": "2000 – 2001",
+        "degree": "Bachelor of Computer Science",
+        "school": "Wake Technical Community College"
+      }
+    ],
+    "technicalSkills": [
+      "JavaScript",
+      "React.JS",
+      "Vue.JS",
+      "Nuxt.JS",
+      "Node.JS",
+      "AngularJS",
+      "TypeScript",
+      "Ruby on Rails",
+      "Python",
+      "Django",
+      "GraphQL",
+      "Jest",
+      "Tailwind",
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "MongoDB",
+      "Kubernetes",
+      "Enzyme",
+      "Ansible",
+      "RabbitMQ",
+      "Apollo",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Collaboration",
+      "Communication",
+      "Problem-Solving",
+      "Leadership",
+      "Adaptability",
+      "Team player",
+      "User-Centered Thinking",
+      "Attention to Detail"
+    ]
+  },
+  "social": {
+    "github": "https://github.com/Sweetgum3897",
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/in/whitney-clarke-9356a91b/",
+    "email": "wc339359@gmail.com"
+  }
+}
