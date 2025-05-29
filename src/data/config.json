@@ -6,12 +6,13 @@
   "hero": {
     "fullName": "Whitney Clarke",
     "iam": [
-      "Senior Full Stack Engineer",
+      "Senior Full Stack / JavaScript Developer",
+      "MERN Stack Developer",
       "Problem-solving",
       "Leadership",
       "Team player"
     ],
-    "shortDescription": "Dynamic Full Stack Developer with 20 years of experience delivering scalable, high-impact web applications across e-commerce, internal tools, and customer-facing platforms. Known for driving a 30% increase in sales through a high-performing e-commerce platform and launching a project management tool that improved team efficiency by 25%. Proficient in JavaScript, React, Node.js, Python, and SQL, with a strong focus on performance optimization, user experience, and cross-functional collaboration.",
+    "shortDescription": "Dynamic Full Stack Developer with 20 years of experience delivering scalable, high-impact web applications across e-commerce, internal tools, and customer-facing platforms. Known for driving a 30% increase in sales through a high-performing e-commerce platform and launching a project management tool that improved team efficiency by 25%. Proficient in JavaScript, React, Node.js, and MongoDB, with a strong focus on performance optimization, user experience, and cross-functional collaboration.",
     "cvUrl": "/files/cv-template.pdf"
   },
   "workExperience": [
@@ -20,31 +21,33 @@
       "title": "Senior Full Stack Developer",
       "subtitle": "MintCo, Raleigh, North Carolina, United States",
       "keyAccomplishment": [
-        "Developed a scalable e-commerce platform using JavaScript and Node.js, resulting in a <b>30% increase in sales</b> within the first year through enhanced user experience and targeted marketing strategies.",
-        "Engineered a project management tool with React and Express, which reduced project delivery time by <b>25% and improved team collaboration across departments</b>.",
-        "Optimized website performance by implementing caching strategies and asynchronous loading, achieving a <b>40% decrease in page load times </b> and boosting user engagement metrics.",
-        "Led a team of 5 developers using Agile methodologies, streamlining the development process and achieving a <b>20% increase in project throughput</b>, ensuring timely delivery of features."
+        "Supervised 20 developers that created an application interface with integrating RainbowMe and other Web3 hooks that could scale up to <b>1k daily visitors</b>.",
+        "Directed MintCo's technical support and operations teams to successfully solve <b>over 200 customer complaints</b>, maximizing uptime and <b>achieving 90% customer satisfaction</b>.",
+        "Designed and developed <b>over 15 full-stack solutions</b> that <b>solved 70% of use cases</b> from embedded devices, and web UI to backend and database.",
+        "Guided and managed <b>a 15-member development team</b> to grow their technical skills via mentoring on operational improvements, coding practices, and technical issue resolutions; <b>improved productivity by 49%</b>."
       ]
     },
     {
-      "dateRange": "January 2018 – May 2020",
-      "title": "Software Engineer",
-      "subtitle": "PetalMD, Canada, Québec",
+      "dateRange": "Oct 2015 – Aug 2019",
+      "title": "Content Aquisions Director/COEP Coordinator/Lead Programmer",
+      "subtitle": "WiderNet, Durham, North Carolina, United States",
       "keyAccomplishment": [
-        "Designed and launched a customer feedback system utilizing Python and Django, which boosted <b>user satisfaction ratings by 15%</b> within six months by enabling real-time feedback collection and analysis",
-        "Collaborated with cross-functional teams to create RESTful APIs in Ruby on Rails, achieving a <b>98% bug-free release rate</b> through rigorous testing and adherence to best practices.",
-        "Implemented data analytics features using SQL to track user behavior, resulting in a <b>30% reduction in code-related issues</b> by identifying and addressing key pain points."
+        "<b>Spearheaded 9 projects</b> that improved the company’s revenue by <b>$1.2M</b> through automation and usability improvements to the existing software platform of WiderNet.",
+        "Led the effort that saved WiderNet <b>$10K per month</b> by developing script automation software, which streamlined an existing labor-intensive process.",
+        "<b>Managed a team of 14 developers</b> on a project that delivered a new product to the market within 21 weeks while meeting all quality and performance goals.",
+        "Delivered a database-driven web application <b>for a $900K project by supervising a team of 11 developers</b>."
       ]
     },
     {
-      "dateRange": "June 2015 – December 2017",
-      "title": "Junior Web Developer",
-      "subtitle": "MicotTel, Canada, Québec",
+      "dateRange": "Jul 2011 – Nov 2017",
+      "title": "FrontEnd Web Developer",
+      "subtitle": "Mera, Raleigh, North Carolina, United States",
       "keyAccomplishment": [
-        "Assisted in building and maintaining web applications using HTML, CSS, JavaScript, and PHP, contributing to a <b>20% faster development cycle</b> by creating reusable components.",
-        "Participated in migrating legacy systems to modern web frameworks, improving system reliability and maintainability.",
-        "Supported senior developers in debugging and optimizing backend processes, which led to a <b>15% improvement</b> in server response times.",
-        "Contributed to weekly code reviews and team stand-ups, building a strong foundation in Agile workflows and version control using Git."
+        "Created an application interface that integrated 35 third-party APIs and <b>improved sales results by 80% within 3 weeks</b> on the job.",
+        "Improved the home page views of through SEO optimization, Q/A testing, and conversion rate optimization.",
+        "Reduced development time by <b>70% through code reuse</b> in JQuery libraries for various projects with over 5.8K combined page visits.",
+        "Insurance acquisition.",
+        "Handled interviews, scheduling fingerprint appointments and termination."
       ]
     }
   ],
@@ -109,14 +112,14 @@
     "description": [
       "I'm a dynamic Full Stack Developer with 20 years of experience building scalable web applications that drive business growth and enhance user experience.",
       "Over the years, I’ve led the development of impactful projects—including a high-performing e-commerce platform that increased sales by 30%, and a project management tool that improved team collaboration and efficiency.",
-      "My core strengths lie in JavaScript, React, and Node.js, with additional expertise in Python, SQL, and building RESTful APIs.",
+      "My core strengths lie in JavaScript, React, Node.js and MongoDB, with additional expertise in building RESTful APIs.",
       "I take pride in writing clean, maintainable code and delivering solutions that balance technical excellence with real-world usability.",
       "Whether I’m optimizing performance, leading a dev team, or collaborating across departments, I bring a results-driven mindset and a passion for creating meaningful software."
     ],
     "education": [
       {
         "dateRange": "2007 – 2010",
-        "degree": "",
+        "degree": "Bachelor of Computer Science",
         "school": "Campbell University"
       },
       {
@@ -126,35 +129,32 @@
       },
       {
         "dateRange": "2000 – 2001",
-        "degree": "Bachelor of Computer Science",
+        "degree": "Certifications in Web Programming",
         "school": "Wake Technical Community College"
       }
     ],
     "technicalSkills": [
-      "JavaScript",
-      "React.JS",
-      "Vue.JS",
-      "Nuxt.JS",
-      "Node.JS",
-      "AngularJS",
+      "React.js",
+      "Next.js",
       "TypeScript",
-      "Ruby on Rails",
-      "Python",
-      "Django",
-      "GraphQL",
+      "Node.js",
+      "Express.js",
+      "MongoDB (Mongoose)",
+      "REST APIs",
+      "Tailwind CSS",
+      "Redux",
+      "Zustand",
+      "JWT Auth",
+      "Firebase",
+      "Stripe",
+      "Git",
+      "Docker (basic)",
+      "Vercel",
+      "Heroku",
+      "GitHub Actions",
+      "Postman",
       "Jest",
-      "Tailwind",
-      "PHP",
-      "Laravel",
-      "PostgreSQL",
-      "MongoDB",
-      "Kubernetes",
-      "Enzyme",
-      "Ansible",
-      "RabbitMQ",
-      "Apollo",
-      "Docker",
-      "AWS"
+      "React Testing Library"
     ],
     "softSkills": [
       "Collaboration",
