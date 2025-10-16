@@ -1,0 +1,176 @@
+{
+  "basic": {
+    "title": "Mykola Petrenko | Portfolio",
+    "description": "Porfolio"
+  },
+  "hero": {
+    "fullName": "Whitney Clarke",
+    "iam": [
+      "Senior Full Stack / JavaScript Developer",
+      "MERN Stack Developer",
+      "Problem-solving",
+      "Leadership",
+      "Team player"
+    ],
+    "shortDescription": "Dynamic Full Stack Developer with 20 years of experience delivering scalable, high-impact web applications across e-commerce, internal tools, and customer-facing platforms. Known for driving a 30% increase in sales through a high-performing e-commerce platform and launching a project management tool that improved team efficiency by 25%. Proficient in JavaScript, React, Node.js, and MongoDB, with a strong focus on performance optimization, user experience, and cross-functional collaboration.",
+    "cvUrl": "/files/cv-template.pdf"
+  },
+  "workExperience": [
+    {
+      "dateRange": "Oct 2019 - Present",
+      "title": "Senior Full Stack Developer",
+      "subtitle": "MintCo, Raleigh, North Carolina, United States",
+      "keyAccomplishment": [
+        "Supervised 20 developers that created an application interface with integrating RainbowMe and other Web3 hooks that could scale up to <b>1k daily visitors</b>.",
+        "Directed MintCo's technical support and operations teams to successfully solve <b>over 200 customer complaints</b>, maximizing uptime and <b>achieving 90% customer satisfaction</b>.",
+        "Designed and developed <b>over 15 full-stack solutions</b> that <b>solved 70% of use cases</b> from embedded devices, and web UI to backend and database.",
+        "Guided and managed <b>a 15-member development team</b> to grow their technical skills via mentoring on operational improvements, coding practices, and technical issue resolutions; <b>improved productivity by 49%</b>."
+      ]
+    },
+    {
+      "dateRange": "Oct 2015 – Aug 2019",
+      "title": "Content Aquisions Director/COEP Coordinator/Lead Programmer",
+      "subtitle": "WiderNet, Durham, North Carolina, United States",
+      "keyAccomplishment": [
+        "<b>Spearheaded 9 projects</b> that improved the company’s revenue by <b>$1.2M</b> through automation and usability improvements to the existing software platform of WiderNet.",
+        "Led the effort that saved WiderNet <b>$10K per month</b> by developing script automation software, which streamlined an existing labor-intensive process.",
+        "<b>Managed a team of 14 developers</b> on a project that delivered a new product to the market within 21 weeks while meeting all quality and performance goals.",
+        "Delivered a database-driven web application <b>for a $900K project by supervising a team of 11 developers</b>."
+      ]
+    },
+    {
+      "dateRange": "Jul 2011 – Nov 2017",
+      "title": "FrontEnd Web Developer",
+      "subtitle": "Mera, Raleigh, North Carolina, United States",
+      "keyAccomplishment": [
+        "Created an application interface that integrated 35 third-party APIs and <b>improved sales results by 80% within 3 weeks</b> on the job.",
+        "Improved the home page views of through SEO optimization, Q/A testing, and conversion rate optimization.",
+        "Reduced development time by <b>70% through code reuse</b> in JQuery libraries for various projects with over 5.8K combined page visits.",
+        "Insurance acquisition.",
+        "Handled interviews, scheduling fingerprint appointments and termination."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Wayfair",
+      "url": "",
+      "description": "Wayfair is one of the world's largest online destinations for home furnishings and decor. I mainly participated to build new features for the customer-facing websites as well as back-end to make it easier for our marketing team to make data changes. Also I translated features and architecture built in monolithic environments into sustainable solutions in a decoupled services state.",
+      "technologiesUsed": [
+        "TypeScript",
+        "React",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "Enzyme"
+      ],
+      "image": "/images/dekang (1).jpg"
+    },
+    {
+      "title": "SoldNest",
+      "url": "",
+      "description": "SoldNest is a marketplace that provides the best tools to home sellers and matches them with top agents in their area. I participated to build the front-facing marketing site and the nestimator dashboard. Also I finalized the responsive designs while solving specific customer needs regarding display elements.",
+      "technologiesUsed": ["Vue", "Nuxt", "Node", "MongoDB", "AWS"],
+      "image": "/images/dekang (2).jpg"
+    },
+    {
+      "title": "MailerLite ",
+      "url": "",
+      "description": "MailerLite is an email marketing platform designed to deliver a simplified experience for advanced email marketing. I improved a real-time campaign dashboard dynamically updating its display every 5-10 seconds to show users up to date statistics. And I built a dynamic form builder allowing users to create forms with any number of fields, capture data, filter entries, and even target those entries for campaigns.",
+      "technologiesUsed": ["PHP", "Laravel", "Javascript", "Vue", "RabbitMQ"],
+      "image": "/images/dekang (6).jpg"
+    },
+    {
+      "title": "PetalMD ",
+      "url": "",
+      "description": "PetalMD is a SaaS provider of healthcare technology solutions which offers cloud-based productivity tools and mobile applications for physician scheduling, patient booking, medical billing, and other applications. I modernized the front-end on a legacy system to enable responsive layouts and mobile views. And I improved local development environments and pipelines using Docker that mirrored production for rapid developer onboarding.",
+      "technologiesUsed": ["Ruby", "TypeScript", "Angular", "Docker", "AWS"],
+      "image": "/images/dekang (3).jpg"
+    },
+    {
+      "title": "Foody ",
+      "url": "",
+      "description": "Foody is an online and mobile prepared food ordering and delivery marketplace that connects diners with local takeout restaurants. I prototyped, architected, and developed the cross-platform mobile app as a solo developer that connected to custom made APIs.",
+      "technologiesUsed": [
+        "Javascript",
+        "React Native",
+        "GraphQL",
+        "Jest",
+        "Apollo"
+      ],
+      "image": "/images/dekang (4).jpg"
+    },
+    {
+      "title": "SelectTV ",
+      "url": "",
+      "description": " SelectTV is a Streaming TV Platform which makes it easier than ever to watch TV Shows, Movies, Events, and more online by organizing all of the web's entertainment into the world's most comprehensive SmartGuide. I discovered and corrected architectural design flaws to improve program efficiency, performance, user interface, and Restful API using React and Django.",
+      "technologiesUsed": ["React", "Python", "Django", "AWS", "Docker"],
+      "image": "/images/dekang (5).jpg"
+    }
+  ],
+  "aboutMe": {
+    "description": [
+      "I'm a dynamic Full Stack Developer with 20 years of experience building scalable web applications that drive business growth and enhance user experience.",
+      "Over the years, I’ve led the development of impactful projects—including a high-performing e-commerce platform that increased sales by 30%, and a project management tool that improved team collaboration and efficiency.",
+      "My core strengths lie in JavaScript, React, Node.js and MongoDB, with additional expertise in building RESTful APIs.",
+      "I take pride in writing clean, maintainable code and delivering solutions that balance technical excellence with real-world usability.",
+      "Whether I’m optimizing performance, leading a dev team, or collaborating across departments, I bring a results-driven mindset and a passion for creating meaningful software."
+    ],
+    "education": [
+      {
+        "dateRange": "2007 – 2010",
+        "degree": "Bachelor of Computer Science",
+        "school": "Campbell University"
+      },
+      {
+        "dateRange": "2003 – 2005",
+        "degree": "",
+        "school": "Meredith College"
+      },
+      {
+        "dateRange": "2000 – 2001",
+        "degree": "Certifications in Web Programming",
+        "school": "Wake Technical Community College"
+      }
+    ],
+    "technicalSkills": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB (Mongoose)",
+      "REST APIs",
+      "Tailwind CSS",
+      "Redux",
+      "Zustand",
+      "JWT Auth",
+      "Firebase",
+      "Stripe",
+      "Git",
+      "Docker (basic)",
+      "Vercel",
+      "Heroku",
+      "GitHub Actions",
+      "Postman",
+      "Jest",
+      "React Testing Library"
+    ],
+    "softSkills": [
+      "Collaboration",
+      "Communication",
+      "Problem-Solving",
+      "Leadership",
+      "Adaptability",
+      "Team player",
+      "User-Centered Thinking",
+      "Attention to Detail"
+    ]
+  },
+  "social": {
+    "github": "https://github.com/Sweetgum3897",
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/in/whitney-clarke-9356a91b/",
+    "email": "fabiosabinorigueira@gmail.com"
+  }
+}
